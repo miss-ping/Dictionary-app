@@ -4,3 +4,8 @@
 .App-header {
   margin-top: 20px;
 }
+.App-footer {
+  font-size: small;
+  margin-top: 10px;
+  color: grey;
+}
